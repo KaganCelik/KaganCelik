@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Bilge Kagan Celik
 
-<!--
-**KaganCelik/KaganCelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Developer
+📍 Antalya, Turkey
+🎯 Goal: Build a software career abroad
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Studied at Akdeniz University  
+- 🛠️ Completed an internship in both hardware and software  
+- 📱 Developing mobile applications using React Native (Expo)  
+- 🌍 Actively working towards an international software career  
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+- JavaScript
+- TypeScript
+
+### 🎨 Frontend
+- React
+- CSS (Responsive UI, Mobile-first design)
+
+### 📱 Mobile
+- React Native (Expo)
+
+### 🌐 Backend & APIs
+- REST APIs
+
+### 🗄️ Database
+- SQL
+
+### 🛠️ Tools
+- Git & GitHub
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: bilgekagancelik@outlook.com
+
+---
+
+## ⚡ Goals
+
+- Build production-ready applications 
+- Work as a software developer abroad
